@@ -1,0 +1,7 @@
+data/
+outputs/trained_models/
+*.pth
+*.h5
+*.zip
+__pycache__/
+.ipynb_checkpoints/
